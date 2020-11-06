@@ -1,0 +1,8 @@
+body {
+    background: url(javaScript.jpg) center center / cover no-repeat fixed;
+}
+h1 { color: rgba(2, 56, 56, 0.479);
+font-size: 60px;
+text-align: center;
+margin-top: 0px;
+}
